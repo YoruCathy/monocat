@@ -1,3 +1,6 @@
 [submodule "external/pyKinectAzure"]
 	path = external/pyKinectAzure
 	url = https://github.com/YoruCathy/pyKinectAzure.git
+[submodule "external/NetFT"]
+	path = external/NetFT
+	url = https://github.com/YoruCathy/NetFT.git
