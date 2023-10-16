@@ -1,0 +1,3 @@
+[submodule "external/pyKinectAzure"]
+	path = external/pyKinectAzure
+	url = https://github.com/YoruCathy/pyKinectAzure.git
