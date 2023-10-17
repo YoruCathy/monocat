@@ -4,3 +4,6 @@
 [submodule "external/NetFT"]
 	path = external/NetFT
 	url = https://github.com/YoruCathy/NetFT.git
+[submodule "FX29K_for_Arduino"]
+	path = FX29K_for_Arduino
+	url = https://github.com/YoruCathy/FX29K_for_Arduino.git
