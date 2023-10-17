@@ -7,3 +7,6 @@
 [submodule "FX29K_for_Arduino"]
 	path = FX29K_for_Arduino
 	url = https://github.com/YoruCathy/FX29K_for_Arduino.git
+[submodule "external/FX29K_for_Arduino"]
+	path = external/FX29K_for_Arduino
+	url = https://github.com/YoruCathy/FX29K_for_Arduino.git
